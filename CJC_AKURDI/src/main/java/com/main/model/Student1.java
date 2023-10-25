@@ -7,7 +7,7 @@ public class Student1 {
 	public String getCourse() {
 		return course;
 	}
-	public void setCourse(String course) {
+	public void
 		this.course = course;
 	}
 	public int getSid() {
